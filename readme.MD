@@ -17,4 +17,4 @@ To size the system, the power consumption of the entire household is modeled. Fi
 - It is unlikely that the general trend will keep decreasing in the future with the same appliances. Rather, the power consumption trend would probably dampen and stabilize to a constant value baseline
 - The future prediction for the next six months does not provide significant insights for the solar panels sizing
 
-![summary](C:\Users\andre\PycharmProjects\HouseholdConsumption\images\summary.jpg)
+<img src="images/summary.jpg" width="800"/>
